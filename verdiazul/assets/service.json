@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "verdiazulbeta-dcbg",
+  "private_key_id": "90797a003289b390a402d3b38c190903251b6395",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCo5PzvTGTuM6Un\nJHem3DGZzXKWbB0F+WAtAKNcHrluKOnm4pkOT5aNN4JKDWB+g3WCNATAGWwp611t\nhJBVrO6YXUCmkx1ophNEWkvmuOK1Ois++5Nol5uoM9PjrKD0NEy3ilg0azbTyOTN\nfICXatRsTEMr6bekiiw6RMhJHna6opu/veemu2CcZX65KN7m6pQWHvHA7djHy5kC\nQoNMFMFa+he7EUnGAAe1TYQzBjBGYrZC1b+1U1lB8DNlgo5afgnT5d6dfGur2fpb\nYi4GGWc3NZ87qtgyaBI7R9X0m3oounsCq2MCe2JxHcvhzOl6wWwHWUZLyr+5XOnu\nnkKEGtHHAgMBAAECggEAEdSzG3R+R2OucPZ5p2Uh23IEQftCCSpty/KATK51tzqc\njyKnNAqVA22z1Kua32BznH5vbfSBJd/SakiPkGwEeJOHys5HUZAPAq1hzAcC8E0m\n2axnwKgY5+Yo3aWRDJck7k+txkL3c96GwWb+kH3X1WMryEwRdk6cIr62Qnnz4Poz\n4S2OiIY8zPXOR4CBNHGEGWTEfkRMUle1E/OsbtQRMNKEMIdU81wLYoF5DQVyHqRD\nvbEaWCg7hFqDgxrLw9fkeBDkBjQVvCi1UTRJ9AydcsBvOflUcAHqCGoKGJli0Olj\n9kltI5B312Bx+mTj64VLlxnw0SKSq/9643yR541lmQKBgQDfNKRc6ZsRsAz1YD1t\n7/DBYjtcrlIffgUCB33s/R89O8f284UI2M2tbwdgPRhQOs5nOTfuRfM/DxLkjhmn\n4OiJ0nemO4bvaUYiwRNGxcDiHmH9Y5N/yq03jKXPM9v2Xe4lwV1HTiVoa6ByCIfL\nYU8R9NiTphPtYxQBivMQ2/1tOwKBgQDBtY8jIxGIj60uwtIIjcvi8ud4sVgaksZa\nKjXnD1aaLX0NPfbU5jQ2SmLeWKArvjxrrUV2OLSojSRtFY7Bc6PFMkG02IBiUHkS\n6pMpZOFc5uGxXmqBUHG0YB3+OCo0yX7cUMGt2mLM7LnxcR7/FBxcWgDUkrgMvP1u\nz1uE+aaU5QKBgGvqgcVCVO0aV0mTvF+Y8KgvHFBVH/OF9Fnk0WdxglcSvj2Rw7Jh\nUCAYXFKVd1ni9MRHj9kuDMtiOFo0sgbO4N8x2ROQGE9McNKA0xcWqYkp82qVaE0S\n6ui+obQqeKEHDQtIEBdXmxJ/ZtV7dlxIsfgWj1fjpiLSEmwkiByQoFjdAoGAcb06\nk6YWuHmsdYV9L/qaWeLImSyAj/HYt76LMeXmsta805arpSyaQbqBvQ6K1cR407zE\nyXrYURO27Lo4vUw6QCKXRCnPkGqx/LJxwF90mEkVAkFvBgkHCqNZWRj/Z0lczN46\nKuvNEYh6UdNbIOldEbjjPe38VbZulK76jOTNtCUCgYATqpMtbdH8U4Dt+3Kl+dMS\nZFuY/IlHCFvehI07EEFm5nIc3GajYTMzeCzpQ+TXqvdEO5+r7BXXd2VxM5J2MIGv\nSMCYjLz/P3kYlQj2/8DlzIcj8PF5BvBJROI9K05GoK+jLAqLOyT4TSV27qI3y+Dz\nkq4uQi5QEtjqAxgoWKvNow==\n-----END PRIVATE KEY-----\n",
+  "client_email": "verdiazul123@verdiazulbeta-dcbg.iam.gserviceaccount.com",
+  "client_id": "102544041386504711338",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/verdiazul123%40verdiazulbeta-dcbg.iam.gserviceaccount.com"
+}

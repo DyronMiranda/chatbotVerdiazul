@@ -1,0 +1,4 @@
+#Thu Feb 04 00:59:07 CST 2021
+base.0=C\:\\Users\\Andro16\\Desktop\\GitHub2021\\chatbotVerdiazul\\verdiazul\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
